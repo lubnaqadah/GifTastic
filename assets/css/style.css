@@ -1,0 +1,20 @@
+body{
+	max-width: 960px;
+	margin: auto;
+}
+
+.card{
+	width: 30%;
+	float: left;
+	margin: 10px 10px;
+	height: 300px;
+	text-align: center;
+}
+.card img{
+	width: 100%
+		
+}
+
+.btn-dark{
+	margin: 5px
+}
